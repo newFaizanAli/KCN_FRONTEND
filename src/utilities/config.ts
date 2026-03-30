@@ -1,6 +1,6 @@
 export const backendConfig = {
   // baseUrl: "http://localhost:3000",
-  // baseUrl: "https://kcn-backend.vercel.app",
+  baseUrl: "https://kcn-backend.vercel.app",
   apiPath: "/api",
 };
 
